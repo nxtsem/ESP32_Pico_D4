@@ -1,9 +1,10 @@
-
+With no Lipo attached, BAT charger is approx 4.2V so ADC is maxed out (4095 dec)
 
 Debug ADC: avg high low  4095.0 4095 4095
 VBAT= 3.788V
 
 -------------------------------------------
+ADC stability testing (1.000V +/-1mV applied)
 
 Debug ADC: avg high low  3999.0 4022 3984
 ADC1 avg= 1.000V
