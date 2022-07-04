@@ -1,0 +1,30 @@
+
+
+Debug ADC: avg high low  4095.0 4095 4095
+VBAT= 3.788V
+
+-------------------------------------------
+
+Debug ADC: avg high low  3999.0 4022 3984
+ADC1 avg= 1.000V
+
+Debug ADC: avg high low  4003.0 4016 3987
+ADC1 avg= 1.001V
+
+Debug ADC: avg high low  4000.125 4095 3984
+ADC1 avg= 1.000V
+
+Debug ADC: avg high low  3997.625 4077 3954
+ADC1 avg= 0.999V
+
+Debug ADC: avg high low  4007.625 4064 3952
+ADC1 avg= 1.002V
+
+Debug ADC: avg high low  4006.125 4095 3952
+ADC1 avg= 1.002V
+
+Debug ADC: avg high low  4004.875 4016 3965
+ADC1 avg= 1.001V
+
+Debug ADC: avg high low  3998.625 4015 3979
+ADC1 avg= 1.000V
